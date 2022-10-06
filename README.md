@@ -7,15 +7,15 @@ industrial, academic, defense, and intelligence domains. John founded the Digita
 Corporation® for his open source work and his consulting practice, and Cranequin LLC for his
 closed source and otherwise proprietary work. He writes a blog on the business and technology of
 software developent under his pseudonym to entertain his friends. John has written, probably,
-hundreds of thousands of lines in C and C++ for shipped products, but has also written production
+hundreds of thousands of lines in C and C++ for products that shipped, but has also written production
 code in Java, Python, JavaScript, and various assembly languages, and has even noodled around in
-Go and Rust. He has written code for products ranging from huge, multi-nationally distributed
-telecommunications systems to tiny microcontrollers. Some of his work has given him the excuse
-to crawl around in the equipment bays of business jets, spend his days working inside a SCIF,
-play with Iridium and Inmarsat communications satellites, wander around the floor of a supercomputer
-center at a national lab, sit tangled in cables and fiber at a big corporate telecom center,
-teach classrooms full of undergraduate and graduate students, give many executive presentations,
-and travel to Europe and Asia.
+Go and Rust. He has written code for products ranging from huge, internationally distributed,
+telecommunications systems to tiny microcontrollers. His work has given him the excuse
+to use oscilloscopes and logic analyzers, crawl around in the equipment bays of business jets,
+spend his days working inside a SCIF, play with Iridium and Inmarsat communications satellites,
+wander around the floor of a supercomputer center at a national lab, sit tangled in cables and
+fibers at a big corporate telecom center, teach classrooms full of undergraduate and graduate
+students, give many executive presentations, and travel to Europe and Asia.
 
 Contact: <mailto:jsloan@diag.com>
 
