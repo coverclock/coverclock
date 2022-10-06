@@ -11,7 +11,7 @@ intelligence domains.
 John founded the Digital Aggregates Corporation® for his open source
 work and his consulting practice, and Cranequin LLC for his closed
 source and otherwise proprietary work. He writes a blog on the
-business and technology of software developent under his pseudonym
+business and technology of software development under his pseudonym
 to entertain his friends.
 
 John has written, probably, hundreds of thousands of lines of code in
