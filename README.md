@@ -7,3 +7,15 @@ defense, and intelligence domains. John founded the Digital Aggregates Corporati
 source work and his consulting practice, and Cranequin LLC for his closed source and otherwise
 proprietary work. He writes a blog on the business and technology of software developent under
 his pseudonym to entertain his friends.
+
+Contact: <mailto:jsloan@diag.com>
+
+Profile: <https://www.linkedin.com/in/johnsloan/>
+
+Web Site: <https://diag.ddns.net>
+
+Blog: <https://coverclock.blogspot.com>
+
+Repositories: <https://github.com/coverclock>
+
+Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
