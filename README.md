@@ -6,7 +6,10 @@ bleeding edge, close to bare metal. John works in the telecommunications, big sc
 industrial, academic, defense, and intelligence domains. John founded the Digital Aggregates
 Corporation® for his open source work and his consulting practice, and Cranequin LLC for his
 closed source and otherwise proprietary work. He writes a blog on the business and technology of
-software developent under his pseudonym to entertain his friends.
+software developent under his pseudonym to entertain his friends. John has written, probably,
+hundreds of thousands of lines in C and C++ for shipped products, but has also written production
+code in Java, Python, JavaScript, and various assembly languages, and has even noodled around in
+Go and Rust.
 
 Contact: <mailto:jsloan@diag.com>
 
