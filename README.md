@@ -10,9 +10,15 @@ intelligence domains.
 
 John founded the Digital Aggregates Corporation® for his open source
 work and his consulting practice, and Cranequin LLC for his closed
-source and otherwise proprietary work. He writes a blog on the
-business and technology of software development under his pseudonym
-to entertain his friends.
+source and otherwise proprietary work. He writes a blog under his
+pseudonym on the business and technology of software development
+to entertain his friends. John has co/authored an article in the
+Proceedings of the IEEE, an entry in the Encyclopedia of Computer
+Science, and many conference papers and technical reports. He is
+the co/inventor of two patents. John has served on industry and
+academic advisory panels, has been an invited conference speaker,
+and has served as a visiting scientist and consultant domestically
+and abroad.
 
 John has written, probably, hundreds of thousands of lines of code in
 C and C++ for products that shipped, but has also written production code
@@ -27,6 +33,9 @@ wander around the floor of a supercomputer center at a national
 lab, sit tangled in cables and fibers at a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
 give many executive presentations, and travel to Europe and Asia.
+
+Due perhaps to his broad skill set, John has been described by former
+managers as "a renaissance man" and as "unfocused".
 
 Contact: <mailto:jsloan@diag.com>
 
