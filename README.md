@@ -66,3 +66,4 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * The Fermi Paradox
 * Time and frequency
 * Traffic management and rate control
+* Trains and mass transit
