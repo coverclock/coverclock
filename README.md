@@ -37,6 +37,8 @@ give many executive presentations, and travel to Europe and Asia.
 Due perhaps to his broad skill set, John has been described by former
 managers as "a renaissance man" and as "unfocused".
 
+# Links
+
 Contact: <mailto:jsloan@diag.com>
 
 Profile: <https://www.linkedin.com/in/johnsloan/>
@@ -48,3 +50,19 @@ Blog: <https://coverclock.blogspot.com>
 Repositories: <https://github.com/coverclock>
 
 Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
+
+# Interests
+
+* API design
+* Bar codes
+* Economics including Game Theory
+* Case studies of failures in complex systems
+* Geolocation
+* Hardware entropy generation
+* Multimodal shipping containers
+* Real-time systems
+* Satellite communication systems
+* Mass storage systems
+* The Fermi Paradox
+* Time and frequency
+* Traffic management and rate control
