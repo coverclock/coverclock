@@ -18,7 +18,9 @@ Science, and many conference papers and technical reports. He is
 the co/inventor of two patents. John has served on industry and
 academic advisory panels, has been an invited conference speaker,
 and has served as a visiting scientist and consultant domestically
-and abroad.
+and abroad. John has worked with remote engineering teams in such
+exotic locales as China, India, Australia, Scotland, Ireland, England,
+and New Jersey.
 
 John has written, probably, hundreds of thousands of lines of code in
 C and C++ for products that shipped, but has also written production code
