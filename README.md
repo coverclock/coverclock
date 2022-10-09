@@ -26,7 +26,7 @@ in Java, Python, JavaScript, various assembly languages, and has
 even noodled around in Go and Rust. He has written code for products
 ranging from huge, internationally distributed, telecommunications
 systems to tiny microcontrollers. His work has given him the excuse
-to use oscilloscopes and logic analyzers, crawl around in the
+to use oscilloscopes and logic analyzers and other expensive tools, crawl around in the
 equipment bays of business jets, spend his days working inside a
 SCIF, play with Iridium and Inmarsat communications satellites,
 wander around the floor of a supercomputer center at a national
