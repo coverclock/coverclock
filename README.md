@@ -63,7 +63,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Case studies of failures in complex systems
 * Geolocation
 * Hardware entropy generation
-* Multimodal shipping containers
+* Multi/inter-modal shipping containers
 * Real-time systems
 * Satellite communication systems
 * Mass storage systems
