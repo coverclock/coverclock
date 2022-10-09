@@ -32,7 +32,7 @@ to use oscilloscopes and logic analyzers and other expensive tools, crawl around
 equipment bays of business jets, spend his days working inside a
 SCIF, play with Iridium and Inmarsat communications satellites,
 wander around the floor of a supercomputer center at a national
-lab, sit tangled in cables and fibers at a big corporate telecom
+lab, sit tangled in cables and fibers on the floor of a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
 give many executive presentations, and travel to Europe and Asia.
 His favorite part of his career is how many smart people he has worked with
