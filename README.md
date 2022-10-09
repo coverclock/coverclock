@@ -60,14 +60,14 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * API design
 * Bar codes
 * Economics including Game Theory
-* Case studies of failures in complex systems
+* Failures in complex systems
+* Fermi Paradox
 * Geolocation
 * Hardware entropy generation
+* Mass storage systems
 * Multi/inter-modal shipping containers
 * Real-time systems
-* Satellite communication systems
-* Mass storage systems
-* The Fermi Paradox
+* Satellite communications systems
 * Time and frequency
 * Traffic management and rate control
 * Trains and mass transit
