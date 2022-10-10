@@ -71,3 +71,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Time and frequency
 * Traffic management and rate control
 * Trains and mass transit
+
+# Notes
+
+* Chip Overclock's GitHub successor is Matt Kocsis <https://github.com/mkocsis>.
