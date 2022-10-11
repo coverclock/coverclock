@@ -74,4 +74,4 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 # Notes
 
-* Chip Overclock's GitHub successor is Matt Kocsis <https://github.com/mkocsis>.
+* Chip Overclock's GitHub successor is his friend and colleague Matt Kocsis <https://github.com/mkocsis>.
