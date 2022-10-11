@@ -66,6 +66,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Fermi Paradox
 * Geolocation
 * Hardware entropy generation
+* Linux kernel and GNU clib APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
 * Real-time systems
