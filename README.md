@@ -15,7 +15,7 @@ pseudonym on the business and technology of software development
 to entertain his friends. John has co/authored an article in the
 Proceedings of the IEEE, an entry in the Encyclopedia of Computer
 Science, and many conference papers and technical reports. He is
-the inventor/co-inventor of two patents. John has served on industry and
+the co/inventor of two patents. John has served on industry and
 academic advisory panels, has been an invited conference speaker,
 and has served as a visiting scientist and consultant domestically
 and abroad. John has worked with remote engineering teams in such
