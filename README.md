@@ -1,3 +1,5 @@
+# Chip Overclock® is the Pen Name of John Sloan
+
 Chip Overclock® is a megalomaniacal supervillain and the secret
 identity, pseudonym, alter ego, and registered trademark of John
 Sloan, a technology product developer who writes software and
