@@ -60,7 +60,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * API design
 * Bar codes
 * Economics including Game Theory
-* Failures in complex systems
+* Failure case studies in complex systems
 * Fermi Paradox
 * Geolocation
 * Hardware entropy generation
