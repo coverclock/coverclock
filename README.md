@@ -45,7 +45,7 @@ managers as "a renaissance man" and as "unfocused".
 
 # Links
 
-Contact: <mailto:jsloan@diag.com>
+Contact: <mailto:coverclock@diag.com>
 
 Profile: <https://www.linkedin.com/in/johnsloan/>
 
