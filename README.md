@@ -37,7 +37,7 @@ hack Android phone internals, develop protocol stacks for cellular base stations
 wander around the computer room of a supercomputer center at a national
 lab, sit tangled in cables and fibers on the floor of a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
-give many successful executive presentations, and travel to Europe and Asia.
+give many successful executive presentations, and travel around Europe and Asia.
 His favorite part of his career is how many smart and gracious people he has worked with
 who were so generous with their time and expertise.
 
