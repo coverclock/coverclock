@@ -34,7 +34,7 @@ to use oscilloscopes and logic analyzers and other expensive tools, crawl around
 equipment bays of business jets, spend his days working inside a
 SCIF, play with Iridium and Inmarsat communications satellites,
 hack Android phone internals, develop protocol stacks for cellular base stations,
-wander around the floor of a supercomputer center at a national
+wander around the computer room of a supercomputer center at a national
 lab, sit tangled in cables and fibers on the floor of a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
 give many successful executive presentations, and travel to Europe and Asia.
