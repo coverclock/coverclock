@@ -26,7 +26,7 @@ and New Jersey.
 
 John has written, probably, hundreds of thousands of lines of code in
 C and C++ for products that shipped, but has also written production code
-in Java, Python, JavaScript, even FORTRAN, COBOL, and various assembly languages, and has
+in Java, Python, JavaScript, even FORTRAN, COBOL, a smattering of assembly languages, and has
 noodled around in Go and Rust. He has written code for products
 ranging from huge, internationally distributed, telecommunications
 systems to tiny microcontrollers. His work has given him the excuse
