@@ -62,18 +62,18 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 * API design
 * Bar codes
-* Economics especially Game Theory
+* Economics especially game theory
 * Failure case studies in complex systems
-* Fermi Paradox
+* Fermi paradox
 * Geolocation
 * Hardware entropy generation
 * Linux kernel and GNU clib APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
-* Physics especially Relativity and Quantum Mechanics
+* Physics especially relativity and quantum mechanics
 * Real-time systems
 * Satellite communications systems
-* Time and frequency
+* Time and frequency metrology
 * Traffic management and rate control
 * Trains and mass transit
 
