@@ -64,14 +64,16 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Bar codes
 * Economics especially game theory
 * Failure case studies in complex systems
-* Fermi paradox
+* Fermi Paradox
+  - I spend more time than I should worrying about the Fermi Paradox.
 * Geolocation
 * Hardware entropy generation
 * Linux kernel and GNU clib APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
 * Physics especially relativity and quantum mechanics
-* Real-time systems
+  - I find the experimental verification of Bell's Theorem deeply troubling.
+* Real-time, concurrent, and asynchronous systems
 * Satellite communications systems
 * Time and frequency metrology
 * Traffic management and rate control
