@@ -62,7 +62,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 * API design
 * Bar codes
-* Economics and especially Game Theory
+* Economics especially Game Theory
 * Failure case studies in complex systems
 * Fermi Paradox
 * Geolocation
@@ -70,6 +70,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Linux kernel and GNU clib APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
+* Physics especially Relativity and Quantum Mechanics
 * Real-time systems
 * Satellite communications systems
 * Time and frequency
