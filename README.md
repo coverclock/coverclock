@@ -64,6 +64,8 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Bar codes
 * Economics especially game theory
 * Case studies of failures in complex systems
+* Fashion
+  - No, seriously.
 * Fermi Paradox
   - I spend more time than I should worrying about the Fermi Paradox.
 * Geolocation
