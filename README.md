@@ -48,6 +48,8 @@ managers as "a renaissance man" and as "unfocused".
 
 Contact: <mailto:coverclock@diag.com>
 
+Head Shot: <https://www.dropbox.com/s/1b77xmooogcbtlc/HeadShot2.jpg?dl=0>
+
 Profile: <https://www.linkedin.com/in/johnsloan/>
 
 Web Site: <https://diag.ddns.net>
