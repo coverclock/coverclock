@@ -72,7 +72,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
   - I spend more time than I should worrying about the Fermi Paradox.
 * Geolocation
 * Hardware entropy generation
-* Linux kernel and GNU clib APIs
+* Linux kernel and GNU C library APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
 * Physics especially relativity and quantum mechanics
