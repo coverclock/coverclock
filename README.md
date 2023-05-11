@@ -64,7 +64,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 * API design
 * Bar codes
-* Economics especially game theory
+* Economics, especially game theory
 * Case studies of failures in complex systems
 * Fashion
   - No, seriously.
@@ -75,7 +75,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Linux kernel and GNU C library APIs
 * Mass storage systems
 * Multi/inter-modal shipping containers
-* Physics especially relativity and quantum mechanics
+* Physics, especially relativity and quantum mechanics
   - I find the experimental verification of Bell's Theorem deeply troubling.
 * Real-time, concurrent, and asynchronous systems
 * Satellite communications systems
