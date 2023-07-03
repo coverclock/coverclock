@@ -62,27 +62,31 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 # Interests
 
-* API design
-* Bar codes
+* API design [^1]
+* Bar codes [^1]
 * Economics, especially game theory
-* Case studies of failures in complex systems
+* Case studies of failures in complex systems [^1]
 * Fashion
   - No, seriously.
 * Fermi Paradox
   - I spend more time than I should worrying about the Fermi Paradox.
-* Geolocation
-* Hardware entropy generation
-* Linux kernel and GNU C library APIs
-* Mass storage systems
+* Geolocation [^1]
+* Hardware entropy generation [^1]
+* Linux kernel and GNU C library APIs [^1]
+* Mass storage systems [^1]
 * Multi/inter-modal shipping containers
 * Physics, especially relativity and quantum mechanics
   - I find the experimental verification of Bell's Theorem deeply troubling.
-* Real-time, concurrent, and asynchronous systems
-* Satellite communications systems
-* Time and frequency metrology
-* Traffic management and rate control
+* Real-time, concurrent, and asynchronous systems [^1]
+* Satellite communications systems [^1]
+* Time and frequency metrology [^1]
+* Traffic management and rate control [^1]
 * Trains and mass transit
+
+[^1]: These are interests in which I've had professional experience; I am at best a dilettante at the rest. 
 
 # Notes
 
 * Chip Overclock®'s GitHub successor is his friend and colleague Matt Kocsis <https://github.com/mkocsis>.
+
+# Footnotes
