@@ -32,7 +32,7 @@ ranging from huge, internationally distributed, telecommunications
 systems to tiny microcontrollers. His work has given him the excuse
 to use oscilloscopes and logic analyzers and other expensive tools, crawl around in the
 equipment bays of business jets, spend his days working inside a
-SCIF, play with Iridium and Inmarsat communications satellites,
+SCIF, play with GNSS, Iridium, and Inmarsat satellites,
 hack Android phone internals, develop protocol stacks for cellular base stations,
 wander around the computer room of a supercomputer center at a national
 lab, sit tangled in cables and fibers on the floor of a big corporate telecom
