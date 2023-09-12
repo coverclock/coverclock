@@ -39,7 +39,7 @@ lab, sit tangled in cables and fibers on the floor of a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
 give many successful executive presentations, and travel around Europe and Asia.
 His favorite part of his career is how many smart and gracious people he has worked with
-who were so generous with their time and expertise.
+who were so generous with their time and expertise in order to mentor him.
 
 Due perhaps to his broad skill set, John has been described by former
 managers as "a renaissance man" and as "unfocused".
