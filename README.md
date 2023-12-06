@@ -44,6 +44,11 @@ who were so generous with their time and expertise in order to mentor him.
 Due perhaps to his broad skill set, John has been described by former
 managers as "a renaissance man" and as "unfocused".
 
+# Personal
+
+John lives in the Denver Colorado metro area with his long-time spousal unit and serves
+as a domestic servant to several beloved feline overlords.
+
 # Links
 
 Contact: <mailto:coverclock@diag.com>
