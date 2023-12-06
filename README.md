@@ -57,7 +57,7 @@ Head Shot: <https://www.dropbox.com/s/1b77xmooogcbtlc/HeadShot2.jpg>
 
 Profile: <https://www.linkedin.com/in/johnsloan/>
 
-Web Site: <https://diag.ddns.net>
+Web Site: <http://www.diag.com>
 
 Blog: <https://coverclock.blogspot.com>
 
