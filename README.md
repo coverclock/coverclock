@@ -80,7 +80,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Real-time, concurrent, and asynchronous systems [^1]
 * Satellite communications systems [^1]
 * Time and frequency metrology [^1]
-* Traffic management and rate control [^1]
+* Data traffic management and rate control [^1]
 * Trains and mass transit
 
 [^1]: These are interests in which I've had professional experience; I am at best a dilettante at the rest. 
