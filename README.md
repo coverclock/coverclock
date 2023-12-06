@@ -24,7 +24,7 @@ and abroad. John has worked with remote engineering teams in such
 exotic locales as China, India, Australia, Scotland, Ireland, England,
 and New Jersey.
 
-John has written, probably, hundreds of thousands of lines of code in
+John has written hundreds of thousands of lines of code in
 C and C++ for products that shipped, but has also written production code
 in Java, Python, JavaScript, even FORTRAN, COBOL, a smattering of assembly languages, and has
 noodled around in Go and Rust. He has written code for products
@@ -32,12 +32,12 @@ ranging from huge, internationally distributed, telecommunications
 systems to tiny microcontrollers. His work has given him the excuse
 to use oscilloscopes and logic analyzers and other expensive tools, crawl around in the
 equipment bays of business jets, spend his days working inside a
-SCIF, play with GNSS, Iridium, and Inmarsat satellites,
+SCIF, play with GPS, Iridium, and Inmarsat satellites,
 hack Android phone internals, develop protocol stacks for cellular base stations,
 wander around the computer room of a supercomputer center at a national
 lab, sit tangled in cables and fibers on the floor of a big corporate telecom
 center, teach classrooms full of undergraduate and graduate students,
-give many successful executive presentations, and travel around Europe and Asia.
+give many successful executive presentations, and travel around the U.S., Europe, and Asia.
 His favorite part of his career is how many smart and gracious people he has worked with
 who were so generous with their time and expertise in order to mentor him.
 
