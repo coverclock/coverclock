@@ -29,7 +29,7 @@ C and C++ for products that shipped, but has also written production code
 in Java, Python, JavaScript, even FORTRAN, COBOL, a smattering of assembly languages, and has
 noodled around in Go and Rust. He has written code for products
 ranging from huge, internationally distributed, telecommunications
-systems to tiny microcontrollers. His work has given him the excuse
+systems, to supercomputers, to tiny microcontrollers. His work has given him the excuse
 to use oscilloscopes and logic analyzers and other expensive tools, crawl around in the
 equipment bays of business jets, spend his days working inside a
 SCIF, play with GPS, Iridium, and Inmarsat satellites,
