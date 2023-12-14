@@ -48,7 +48,7 @@ managers as "a renaissance man" and as "unfocused".
 # Personal
 
 John lives in the Denver Colorado metro area with his long-time spousal unit and serves
-as a domestic servant to several beloved feline overlords.
+as a domestic servant to his beloved feline overlords.
 
 # Links
 
