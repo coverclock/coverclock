@@ -6,7 +6,7 @@ Sloan, a technology product developer who writes software and
 firmware for very large and very small systems on the internet of
 interesting things: distributed, real-time, high performance, high
 reliability, embedded, concurrent, parallel, asynchronous, bleeding
-edge, high altitude, close to bare metal. John works in the telecommunications,
+edge, high altitude, close to bare metal. John has worked in the telecommunications,
 big science, enterprise, industrial, academic, defense, and
 intelligence domains.
 
