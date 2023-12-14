@@ -7,7 +7,7 @@ firmware for very large and very small systems on the internet of
 interesting things: distributed, real-time, high performance, high
 reliability, embedded, concurrent, parallel, asynchronous, bleeding
 edge, high altitude, close to bare metal. John has worked in the
-supercomputing, telecommunications,
+supercomputing, telecommunications, business aviation,
 big science, enterprise, industrial, academic, defense, and
 intelligence domains.
 
