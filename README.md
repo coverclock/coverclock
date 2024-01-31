@@ -69,6 +69,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 # Interests
 
+* AI applications in software development, safety critical systems, weapons systems.
 * API design [^1]
 * Bar codes [^1]
 * Data traffic management and rate control [^1]
