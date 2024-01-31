@@ -92,6 +92,8 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Satellite communications systems [^1]
 * Time and frequency metrology [^1]
 * Trains and mass transit [^2]
+* Unidentified anomalous phenomena in any domain.
+  - I'm a skeptic, but a very few such phenomena may be foreign intelligence assets.
 
 [^1]: These are interests in which I've had professional experience; I am at best a dilettante at the rest. 
 [^2]: If I could live long enough to have a second career, these are areas in which I might pursue one. 
