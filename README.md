@@ -47,7 +47,9 @@ managers as "a renaissance man" and as "unfocused".
 
 # Personal
 
-John lives in the Denver Colorado metro area with his long-time spousal unit and several beloved feline lab assistants.
+John lives in the Denver Colorado metro area with his long-time spousal unit and his beloved feline lab assistants.
+
+In the event of his death, John's GitHub successor is his friend and colleague Matt Kocsis <https://github.com/mkocsis>.
 
 # Links
 
@@ -69,29 +71,28 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 
 * API design [^1]
 * Bar codes [^1]
-* Economics, especially game theory
-* Case studies of failures in complex systems [^1]
+* Data traffic management and rate control [^1]
+* Defense industrial policy
+* Economics
+* Failures in complex systems [^1]
 * Fashion
   - No, seriously.
 * Fermi Paradox
   - I spend more time than I should worrying about the Fermi Paradox.
-* Geolocation [^1]
+* Geolocation
 * Hardware entropy generation [^1]
 * Linux kernel and GNU C library APIs [^1]
 * Mass storage systems [^1]
-* Multi/inter-modal shipping containers
-* Physics, especially relativity and quantum mechanics
+* Multi/inter-modal shipping containers [^2]
+* Real-time, concurrent, parallel, and asynchronous systems [^1]
+* Relativity and quantum mechanics
   - I find the experimental verification of Bell's Theorem deeply troubling.
-* Real-time, concurrent, and asynchronous systems [^1]
+* Safety Science [^2]
 * Satellite communications systems [^1]
 * Time and frequency metrology [^1]
-* Data traffic management and rate control [^1]
-* Trains and mass transit
+* Trains and mass transit [^2]
 
 [^1]: These are interests in which I've had professional experience; I am at best a dilettante at the rest. 
-
-# Notes
-
-* Chip Overclock®'s GitHub successor is his friend and colleague Matt Kocsis <https://github.com/mkocsis>.
+[^2]: If I could live long enough to have a second career, these are areas in which I might pursue one. 
 
 # Footnotes
