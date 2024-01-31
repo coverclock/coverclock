@@ -80,7 +80,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
   - No, seriously.
 * Fermi Paradox
   - I spend more time than I should worrying about the Fermi Paradox.
-* Geolocation
+* Geolocation and its applications [^1]
 * Hardware entropy generation [^1]
 * Linux kernel and GNU C library APIs [^1]
 * Mass storage systems [^1]
