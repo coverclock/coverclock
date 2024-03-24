@@ -70,28 +70,30 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 # Interests
 
 * AI applications in software development, safety critical systems, weapons systems. [^2]
-* API design [^1]
-* Bar codes [^1]
-* Data traffic management and rate control [^1]
-* Defense industrial policy
-* Economics
-* Failures in complex systems [^1]
-* Fashion
+* API design. [^1]
+* Ballroom, swing, and latin dancing. [^2]
+  - As difficult as that is to believe.
+* Bar codes. [^1]
+* Data traffic management and rate control. [^1]
+* Defense industrial policy.
+* Economics.
+* Failures in complex systems. [^1]
+* Fashion.
   - No, seriously.
-* Fermi Paradox
+* Fermi Paradox.
   - I spend more time than I should worrying about the Fermi Paradox.
-* Geolocation and its applications [^1]
-* Hardware entropy generation [^1]
-* Linux kernel and GNU C library APIs [^1]
-* Mass storage systems [^1]
-* Multi/inter-modal shipping containers [^2]
-* Real-time, concurrent, parallel, and asynchronous systems [^1]
-* Relativity and quantum mechanics
+* Geolocation and its applications. [^1]
+* Hardware entropy generation. [^1]
+* Linux kernel and GNU C library APIs. [^1]
+* Mass storage systems. [^1]
+* Multi/inter-modal shipping containers. [^2]
+* Real-time, concurrent, parallel, and asynchronous systems. [^1]
+* Relativity and quantum mechanics.
   - I find the experimental verification of Bell's Theorem deeply troubling.
-* Safety Science [^2]
-* Satellite communications systems [^1]
-* Time and frequency metrology [^1]
-* Trains and mass transit [^2]
+* Safety Science. [^2]
+* Satellite communications systems. [^1]
+* Time and frequency metrology. [^1]
+* Trains and mass transit. [^2]
 * Unidentified anomalous phenomena in any domain.
   - I'm a skeptic, but a very few such phenomena may be foreign intelligence assets.
 
