@@ -51,6 +51,10 @@ John lives in the Denver Colorado metro area with his long-time spousal unit and
 
 In the event of his death, John's GitHub successor is his friend and colleague Matt Kocsis <https://github.com/mkocsis>.
 
+# Certifications
+
+John has been through the SSBI (a.k.a. Tier 5 or T5) process more than once.
+
 # Links
 
 Contact: <mailto:coverclock@diag.com>
@@ -76,24 +80,23 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Bar codes. [^1]
 * Data traffic management and rate control. [^1]
 * Defense industrial policy.
-* Economics.
-* Failures in complex systems. [^1]
+* Economics, including Game Theory, leveraging market forces, and failures in incentive systems.
 * Fashion.
   - No, seriously.
 * Fermi Paradox.
   - I spend more time than I should worrying about the Fermi Paradox.
-* Geolocation and its applications. [^1]
+* Geolocation and its applications, like precision agriculture. [^1]
 * Hardware entropy generation. [^1]
 * Linux kernel and GNU C library APIs. [^1]
 * Mass storage systems. [^1]
-* Multi/inter-modal shipping containers. [^2]
+* Multi/inter-modal shipping, and shipping containers. [^2]
 * Real-time, concurrent, parallel, and asynchronous systems. [^1]
 * Relativity and quantum mechanics.
   - I find the experimental verification of Bell's Theorem deeply troubling.
-* Safety Science. [^2]
-* Satellite communications systems. [^1]
-* Time and frequency metrology. [^1]
-* Trains and mass transit. [^2]
+* Safety Science, and analysis of failures in complex systems. [^2]
+* Satellite communications systems, like Iridium and Inmarsat. [^1]
+* Time and frequency metrology, and precision time and frequency references. [^1]
+* Trains, both freight and passenger, and mass transit. [^2]
 * Unidentified anomalous phenomena in any domain.
   - I'm a skeptic, but a very few such phenomena may be foreign intelligence assets.
 
