@@ -54,7 +54,7 @@ In the event of his death, John's GitHub successor is his friend and colleague M
 
 # Certifications
 
-John has been through the SSBI (a.k.a. Tier 5 or T5) process more than once.
+John has been through the U.S. federal government's SSBI (a.k.a. Tier 5 or T5) process more than once.
 
 # Links
 
@@ -82,6 +82,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Data traffic management and rate control. [^1]
 * Defense industrial policy.
 * Economics, including Game Theory, leveraging market forces, and failures in incentive systems.
+* Education and especially self-directed learning. [^1]
 * Fashion.
   - No, seriously.
 * Fermi Paradox.
