@@ -97,6 +97,7 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
   - I find the experimental verification of Bell's Theorem deeply troubling.
 * Safety Science, and analysis of failures in complex systems. [^2]
 * Satellite communications systems, like Iridium and Inmarsat. [^1]
+  - Maybe someday Starlink.
 * Time and frequency metrology, and precision time and frequency references. [^1]
 * Trains, both freight and passenger, and mass transit. [^2]
 * Unidentified anomalous phenomena in any domain.
