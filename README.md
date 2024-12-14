@@ -81,9 +81,9 @@ Resume: <https://www.dropbox.com/s/k8k2m4ud9z0lgho/Resume.pdf>
 * Bar codes. [^1]
 * Data traffic management and rate control. [^1]
 * Defense industrial policy.
-* Economics, including Game Theory, leveraging market forces, and failures in incentive systems.
+* Economics, including Game Theory, leveraging market forces, and failures in incentive systems. [^2]
 * Education and especially self-directed learning. [^1]
-* Fashion.
+* Fashion. [^2]
   - No, seriously.
 * Fermi Paradox.
   - I spend more time than I should worrying about the Fermi Paradox.
