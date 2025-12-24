@@ -33,7 +33,7 @@ noodled around in Go and Rust. He has written low-level and real-time code for p
 ranging from huge, internationally distributed, telecommunications
 systems, to supercomputers, to tiny microcontrollers. His work has given him the excuse
 to use oscilloscopes and logic analyzers and other expensive tools, crawl around in the
-equipment bays of business jets, spend his days working inside a
+equipment bays and take test flights on business jets, spend his days working inside a
 SCIF, play with GPS, Iridium, and Inmarsat satellites,
 hack Android phone internals, develop protocol stacks for cellular base stations,
 wander around the computer room of a supercomputer center at a national
