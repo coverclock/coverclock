@@ -15,10 +15,10 @@ John founded the Digital Aggregates Corporation® for his open source
 work and his consulting practice, and Cranequin LLC for his closed
 source and otherwise proprietary work. He writes a blog under his
 pseudonym on the business and technology of software development
-to entertain his friends. John has co/authored an article in the
+to entertain his friends. John has authored or co-authored an article in the
 Proceedings of the IEEE, an entry in the Encyclopedia of Computer
 Science, and many conference papers and technical reports. He is
-the co/inventor of two patents. John has served on industry and
+the inventor or co-inventor of two patents. John has served on industry and
 academic advisory panels, has been an invited conference speaker,
 and has served as a visiting scientist and consultant domestically
 and abroad. John has worked with remote engineering teams in such
