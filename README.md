@@ -56,6 +56,26 @@ In the event of his death, John's GitHub successor is his friend and colleague M
 
 John has been through the U.S. federal government's SSBI (a.k.a. Tier 5 or T5) process more than once.
 
+# Organizations
+
+John is a member of the following organizations.
+
+Association of Computing Machinery (ACM)
+
+Association of Old Crows (AOC)
+
+Colorado Technology Association (CTA)
+
+Founders Club at Casa Bonita
+
+InfraGard
+
+Institute of Electrical and Electronics Engineers (IEEE)
+
+Miskatonic University Alumni Association
+
+Resilient Navigation and Timing Foundation
+
 # Links
 
 Contact: <mailto:coverclock@diag.com>
